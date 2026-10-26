@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Blast Adventure",
+  "description": "Ultimate arcade bubble shooter with rich worlds, special bubbles, boosters, and 100 adventure levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
